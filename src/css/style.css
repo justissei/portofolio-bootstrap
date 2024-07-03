@@ -10,7 +10,7 @@
     height: 1px; /* Tinggi garis bawah */
     bottom: -2px; /* Mengatur posisi garis bawah */
     left: 0;
-    background-color: #212529; /* Warna garis bawah */
+    background-color: #f8f9fa; /* Warna garis bawah */
     transform: scaleX(0); /* Skala awal */
     transition: transform 0.3s ease; /* Animasi transisi */
 }
@@ -20,7 +20,7 @@
 }
 
 .nav-link:hover {
-    color: #212529; /* Ubah warna teks saat hover */
+    color: #f8f9fal; /* Ubah warna teks saat hover */
 }
 
 .card-header {
